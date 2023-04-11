@@ -5,9 +5,8 @@ This repository contains code and scripting examples for various machine learnin
 Getting Started
 To get started, clone this repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/yourusername/ML-AI-repo.git
+git clone https://github.com/ksmith1281/Machine-Learning-AI.git
+
 Then, install the necessary dependencies. The specific dependencies required for each example are listed in their respective directories.
 
 Examples
